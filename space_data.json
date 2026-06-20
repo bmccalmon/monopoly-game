@@ -1,0 +1,283 @@
+[
+    {
+      "name": "GO!",
+      "color": "LIGHTORANGE",
+      "space_type": "GO",
+      "pass_reward": 200,
+      "icon": ""
+    },
+    {
+      "name": "The Old Creek",
+      "color": "BROWN",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Pot Luck",
+      "color": "LIGHTBLUE",
+      "space_type": "CHANCE",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Gangsters Paradise",
+      "color": "BROWN",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Income Tax!",
+      "space_type": "TAXES",
+      "color": "DARKGREEN",
+      "pass_reward": -200,
+      "icon": ""
+    },
+    {
+      "name": "Brighton Station",
+      "color": "GREY",
+      "space_type": "VISITING",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "The Angels Delight",
+      "color": "BLUE",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Opp. Knocks",
+      "color": "ORANGE",
+      "space_type": "CHANCE",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Potter Avenue",
+      "color": "BLUE",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Granger Drive",
+      "color": "BLUE",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "JAIL",
+      "color": "WHITE",
+      "space_type": "VISITING",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Skywalker Drive",
+      "color": "PURPLE",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Tesla Power Co",
+      "space_type": "VISITING",
+      "color": "PINK",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Wookie Hole",
+      "color": "PURPLE",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Rey Lane",
+      "color": "PURPLE",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Hove Station",
+      "color": "GREY",
+      "space_type": "VISITING",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Bishop Drive",
+      "color": "ORANGE",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Pot Luck",
+      "color": "LIGHTBLUE",
+      "space_type": "CHANCE",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Dunham Street",
+      "space_type": "PROPERTY",
+      "color": "ORANGE",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Broyles Lane",
+      "color": "ORANGE",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Free Parking",
+      "color": "LIGHTORANGE",
+      "space_type": "JACKPOT",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Yue Fei Square",
+      "color": "RED",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Opp. Knocks",
+      "color": "ORANGE",
+      "space_type": "CHANCE",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Mulan Rouge",
+      "color": "RED",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Han Xin Gardens",
+      "color": "RED",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Falmer Station",
+      "color": "GREY",
+      "space_type": "VISITING",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Shatner Close",
+      "color": "YELLOW",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Picard Avenue",
+      "color": "YELLOW",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Edison Water",
+      "color": "PINK",
+      "space_type": "VISITING",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Crusher Creek",
+      "color": "YELLOW",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Go to Jail",
+      "color": "WHITE",
+      "space_type": "JAIL",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Sirat Mews",
+      "color": "GREEN",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Ghengis Crescent",
+      "color": "GREEN",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Pot Luck ",
+      "color": "LIGHTBLUE",
+      "space_type": "CHANCE",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Ibis Close",
+      "color": "GREEN",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Portslade Station",
+      "color": "GREY",
+      "space_type": "VISITING",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Opp. Knocks",
+      "color": "ORANGE",
+      "space_type": "CHANCE",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "James Webb Way",
+      "color": "DARKBLUE",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    },
+    {
+      "name": "Super Tax",
+      "color": "DARKGREEN",
+      "space_type": "CHANCE",
+      "pass_reward": -100,
+      "icon": ""
+    },
+    {
+      "name": "Turing Heights",
+      "color": "DARKBLUE",
+      "space_type": "PROPERTY",
+      "pass_reward": 0,
+      "icon": ""
+    }
+  ]
+  

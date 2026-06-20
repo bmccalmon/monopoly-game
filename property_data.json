@@ -1,0 +1,114 @@
+{
+    "The Old Creek": {
+        "value": 60,
+        "base_tax": 2
+    },
+    "Gangsters Paradise": {
+        "value": 60,
+        "base_tax": 4
+    },
+    "Brighton Station": {
+        "value": 200,
+        "base_tax": 25
+    },
+    "The Angels Delight": {
+        "value": 100,
+        "base_tax": 6
+    },
+    "Potter Avenue": {
+        "value": 120,
+        "base_tax": 6
+    },
+    "Granger Drive": {
+        "value": 120,
+        "base_tax": 8
+    },
+    "Skywalker Drive": {
+        "value": 140,
+        "base_tax": 10
+    },
+    "Tesla Power Co": {
+        "value": 150,
+        "base_tax": 25
+    },
+    "Wookie Hole": {
+        "value": 140,
+        "base_tax": 10
+    },
+    "Rey Lane": {
+        "value": 160,
+        "base_tax": 12
+    },
+    "Hove Station": {
+        "value": 200,
+        "base_tax": 25
+    },
+    "Bishop Drive": {
+        "value": 180,
+        "base_tax": 14
+    },
+    "Dunham Street": {
+        "value": 180,
+        "base_tax": 14
+    },
+    "Broyles Lane": {
+        "value": 200,
+        "base_tax": 18
+    },
+    "Yue Fei Square": {
+        "value": 220,
+        "base_tax": 18
+    },
+    "Mulan Rouge": {
+        "value": 220,
+        "base_tax": 18
+    },
+    "Han Xin Gardens": {
+        "value": 240,
+        "base_tax": 20
+    },
+    "Falmer Station": {
+        "value": 200,
+        "base_tax": 25
+    },
+    "Shatner Close": {
+        "value": 260,
+        "base_tax": 22
+    },
+    "Picard Avenue": {
+        "value": 260,
+        "base_tax": 22
+    },
+    "Edison Water": {
+        "value": 150,
+        "base_tax": 25
+    },
+    "Crusher Creek": {
+        "value": 280,
+        "base_tax": 22
+    },
+    "Sirat Mews": {
+        "value": 300,
+        "base_tax": 26
+    },
+    "Ghengis Crescent": {
+        "value": 300,
+        "base_tax": 26
+    },
+    "Ibis Close": {
+        "value": 320,
+        "base_tax": 28
+    },
+    "Portslade Station": {
+        "value": 200,
+        "base_tax": 25
+    },
+    "James Webb Way": {
+        "value": 350,
+        "base_tax": 35
+    },
+    "Turing Heights": {
+        "value": 400,
+        "base_tax": 50
+    }
+}

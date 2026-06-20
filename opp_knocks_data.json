@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Player token moves forwards to Turing Heights",
+        "action": "jump_to",
+        "value": 0,
+        "movement_location": "Turing Heights"
+    },
+    {
+        "description": "Player moves token to Han Xin Gardens",
+        "action": "jump_to",
+        "value": 0,
+        "movement_location": "Han Xin Gardens"
+    },
+    {
+        "description": "Player puts £15 on free parking",
+        "action": "parking_money",
+        "value": 15,
+        "movement_location": ""
+    },
+    {
+        "description": "Player pays £150 to the bank",
+        "action": "receive_money",
+        "value": -150,
+        "movement_location": ""
+    },
+    {
+        "description": "Player moves token to Hove station",
+        "action": "jump_to",
+        "value": 0,
+        "movement_location": "Hove station"
+    },
+    {
+        "description": "Bank pays £150 to the player",
+        "action": "receive_money",
+        "value": 150,
+        "movement_location": ""
+    },
+    {
+        "description": "Player pays money to the bank, £40/house, £115/hotel",
+        "action": "housing_money",
+        "value": [-40, -115],
+        "movement_location": ""
+    },
+    {
+        "description": "Player moves token to go",
+        "action": "jump_to",
+        "value": 0,
+        "movement_location": "GO!"
+    },
+    {
+        "description": "Player pays money to the bank, £25/house, £100/hotel",
+        "action": "housing_money",
+        "value": [-25, -100],
+        "movement_location": ""
+    },
+    {
+        "description": "Player moves token 3 spaces",
+        "action": "jump",
+        "value": 3,
+        "movement_location": ""
+    },
+    {
+        "description": "Player moves token to Skywalker Drive",
+        "action": "jump_to",
+        "value": 0,
+        "movement_location": "Skywalker Drive"
+    },
+    {
+        "description": "Player moves token to jail",
+        "action": "go_to_jail",
+        "value": 0,
+        "movement_location": ""
+    },
+    {
+        "description": "Player puts £20 on free parking",
+        "action": "parking_money",
+        "value": 20,
+        "movement_location": ""
+    }
+]
